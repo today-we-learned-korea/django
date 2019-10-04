@@ -1,0 +1,2 @@
+# django
+We Learned Django
